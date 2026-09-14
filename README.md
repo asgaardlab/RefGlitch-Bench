@@ -1,12 +1,10 @@
-# RefGlitch-Bench: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games
+# RefGlitch-Bench: A Benchmark for Reference-based Gameplay Glitch Detection with Vision-Language Models
 
-This repository contains the code for the paper [RESP: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games](https://arxiv.org/abs/2604.11082).
-
-RESP is a reference-guided multi-frame framework for gameplay glitch detection with vision-language models. The code focuses on the main experiments used in the paper.
+This repository contains the code for the paper [RefGlitch-Bench: A Benchmark for Reference-based Gameplay Glitch Detection with Vision-Language Models](https://arxiv.org/abs/2604.11082).
 
 ## Dataset
 
-The **RefGlitch** dataset can be downloaded from [Hugging Face](https://huggingface.co/datasets/asgaardlab/RefGlitch).
+The **RefGlitch-Bench** dataset can be downloaded from [Hugging Face](https://huggingface.co/datasets/asgaardlab/RefGlitch).
 
 Please download the dataset separately and update the local file paths in the scripts if needed.
 
@@ -64,8 +62,8 @@ python Inference_qwen3vl_random_godot.py
 If you use this code or the dataset, please cite:
 
 ```bibtex
-@misc{yu2026resp,
-  title={RESP: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games},
+@misc{yu2026refglitch-bench,
+  title={RefGlitch-Bench: A Benchmark for Reference-based Gameplay Glitch Detection with Vision-Language Models},
   author={Yakun Yu and Ashley Wiens and Adrian Barahona-Rios and Benedict Wilkins and Saman Zadtootaghaj and Nabajeet Barman and Cor-Paul Bezemer},
   year={2026},
   eprint={2604.11082},

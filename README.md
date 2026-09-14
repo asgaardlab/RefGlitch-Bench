@@ -1,4 +1,4 @@
-# RESP: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games
+# RefGlitch-Bench: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games
 
 This repository contains the code for the paper [RESP: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games](https://arxiv.org/abs/2604.11082).
 

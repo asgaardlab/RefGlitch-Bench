@@ -1,6 +1,6 @@
 # RefGlitch-Bench: A Benchmark for Reference-based Gameplay Glitch Detection with Vision-Language Models
 
-This repository contains the code for the paper [RefGlitch-Bench: A Benchmark for Reference-based Gameplay Glitch Detection with Vision-Language Models](https://arxiv.org/abs/2604.11082).
+This repository contains the code for the paper [Improving Vision Language Model-Based Gameplay Glitch Detection with Reference Images](https://arxiv.org/abs/2604.11082).
 
 ## Dataset
 
